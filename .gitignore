@@ -1,0 +1,26 @@
+# Environnement virtuel
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de configuration système
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+/dist
+/build
+
+# VSCode / PyCharm
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# CSV / données sensibles (si besoin)
+*.csv
